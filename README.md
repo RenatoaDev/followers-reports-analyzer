@@ -1,16 +1,8 @@
-# followers_reports_analyzer
+# Followers reports analyzer
 
-A new Flutter project.
+App que posibilita ver quem deixou de seguir no instagram.
 
-## Getting Started
+## PROJETO DESCONTINUADO
 
-This project is a starting point for a Flutter application.
+Infelizmente o instagram bloqueia as contas com muitos seguidores.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
